@@ -1,16 +1,15 @@
-## Hi there 👋
+I build tools for AI coding agents: skills, plugins, and command-line utilities for the Claude Code and agent ecosystem.
 
-<!--
-**sergipascualc/sergipascualc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My approach is simple: I read the most-requested features and open issues in widely used projects, and I build what people are already asking for.
 
-Here are some ideas to get you started:
+Currently studying software development in Barcelona and building in public. Everything I publish here is documented, tested, and maintained.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focus
+Tooling for AI coding agents (Claude Code, MCP)
+Automation and developer workflow utilities
+Open source contributions to projects I use daily
+
+
+Contact
+
+Open an issue on any of my repositories. I read all of them.
