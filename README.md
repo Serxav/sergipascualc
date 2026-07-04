@@ -1,5 +1,3 @@
-# Sergi Pascual
-
 I build tools for AI coding agents: skills, plugins, and command-line utilities for the Claude Code and agent ecosystem.
 
 My approach is simple: I read the most-requested features and open issues in widely used projects, and I build what people are already asking for.
