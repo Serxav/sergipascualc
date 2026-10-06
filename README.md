@@ -28,3 +28,10 @@
 ### Certifications
 
 🍎 Apple ATLAS · 🧠 Anthropic Claude course · 🌐 Cisco: IT Essentials, Cybersecurity, Python Essentials 1 & 2, Data Science, Applied AI, English for IT
+
+### Projects
+
+- 📅 **Turnos** — shift-work calendar you can share with your partner (Flutter)
+- 📓 **Bloc** — offline class notebook for DAM students (Electron + React)
+- 📂 **DocuPide** — document collection for accounting firms via magic link (Next.js + Supabase)
+- 🔍 **[why-no-tools](https://github.com/Serxav/why-no-tools)** — finds why your MCP server shows no tools in Claude Code
